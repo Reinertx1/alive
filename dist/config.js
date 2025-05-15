@@ -3,11 +3,11 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const fs_1 = require("fs");
 const path_1 = require("path");
 const config = {
-    token: 'TOKEN', // token
-    clientId: 'ID', // bot id
-    mongoUri: 'mongodb+', // mongodb url
+    token: 'MTA4MTU3ODUxMTE3NDc1MDI3OA.GdzNM7.mcUwIxEStSU8v19Zcqr_EEnIKtaVo5dsy1V-hI', // token
+    clientId: '1081578511174750278', // bot id
+    mongoUri: 'mongodb+srv://rimogob298:DTEwdrZOwoitPEmB@cluster0.7dqcq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', // mongodb url
     defaultPrefix: '!',
-    mainGuildId: 'ID', // main guild id
+    mainGuildId: '1212187527545618462', // main guild id
     defaultLanguage: 'en',
     dashboard: {
         port: 3000,     // port for dashboard
